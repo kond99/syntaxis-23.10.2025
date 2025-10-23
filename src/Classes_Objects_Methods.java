@@ -12,6 +12,7 @@ public class Classes_Objects_Methods {
         person2.age = 9;
         person2.speak();  //вызов метода для person2
         person2.speak();
+        person1.sayHello();
         System.out.println("Меня зовут "+person2.name+ ","+" мне "+person2.age+ " лет");
     }
 }
