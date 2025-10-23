@@ -102,6 +102,7 @@ public class Practice_2 {
                 System.out.print(array2[i][j] + " ");
             }
             System.out.println();
+            System.out.println();
         }
     }
 
